@@ -1,0 +1,6 @@
+{
+	"appId": "com.focusflow.detox",
+	"appName": "FocusFlow",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
